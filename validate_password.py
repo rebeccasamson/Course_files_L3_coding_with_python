@@ -10,7 +10,9 @@
 import re # import built-in module named re which provides a set of powerful regular expression facilities
 
 def validate_password(password): # user-defined function named validate_password
-    if len(password) < 8: # len is a built-in function 
+    
+   # update password length to 10
+    if len(password) < 10: # len is a built-in function 
         return False  
     if not re.search("[a-z]", password):  
         return False  
