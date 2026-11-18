@@ -26,5 +26,5 @@ password = input("Create a new password")
 if validate_password(password):  
     print("Valid password")  
 else:  
-    print("Invalid password, try again.")
+    print("Invalid password, try again. Choose a better password!!") # edited output for invalid password
 
