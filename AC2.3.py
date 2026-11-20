@@ -19,9 +19,10 @@ def welcome_user():
     name = input("Enter your name: ")
     print("Welcome", name)
 welcome_user()
-welcome_user()
-f age >= 18:
-    can_vote = True
-else:
-    can_vote = False
-can_vote = age >= 18
+
+#welcome_user()
+#if age >= 18:
+#    can_vote = True
+#else:
+#    can_vote = False
+#can_vote = age >= 18
