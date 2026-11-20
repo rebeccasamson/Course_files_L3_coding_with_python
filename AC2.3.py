@@ -1,4 +1,4 @@
-#####################################################################
+######################################################################
 ## Becky Samson L3: Version control using Git/GitHub
 ## Git commits using command line
 ## Date 20/11/2026
@@ -10,8 +10,8 @@
 #print("Welcome", n)
 #user_name = input("Enter your name: ")
 #print("Welcome", user_name)
-name = input("Enter your name: ")
-print("Welcome", name)
+#name = input("Enter your name: ")
+#print("Welcome", name)
 name = input("Enter your name: ")
 print("Welcome", name)
 def welcome_user():
