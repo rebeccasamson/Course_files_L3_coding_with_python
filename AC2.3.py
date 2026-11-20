@@ -8,12 +8,13 @@
 
 #n = input("Enter your name: ")
 #print("Welcome", n)
-#user_name = input("Enter your name: ")
-#print("Welcome", user_name)
+user_name = input("Enter your name: ")
+print("Welcome", user_name)
 #name = input("Enter your name: ")
 #print("Welcome", name)
-name = input("Enter your name: ")
-print("Welcome", name)
+#name = input("Enter your name: ")
+#print("Welcome", name)
+print("Hello!! How are you?")
 def welcome_user():
     name = input("Enter your name: ")
     print("Welcome", name)
