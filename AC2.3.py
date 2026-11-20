@@ -18,8 +18,6 @@ print("Hello!! How are you?")
 def welcome_user():
     name = input("Enter your name: ")
     print("Welcome", name)
-    name = input("Enter your age: ")
-    print("You are", age)
 welcome_user()
 
 #welcome_user()
